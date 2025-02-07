@@ -34,21 +34,6 @@ MAP UR WASTE is a comprehensive waste management solution designed to connect us
   - Payment Gateway: Stripe, PayPal, or Razorpay
   - Authentication: Firebase Authentication or OAuth 2.0
 
-## Development Timeline
-- **Planning & Research**: 2-3 weeks
-- **UI/UX Design**: 3-4 weeks
-- **Frontend Development**: 6-8 weeks
-- **Backend Development**: 6-8 weeks
-- **Testing**: 3-4 weeks
-- **Deployment**: 1-2 weeks
-- **Post-Launch Support**: Ongoing
-
-## Monetization Strategies
-- Service Fees for each waste collection request
-- Subscription Plans for frequent users or businesses
-- Advertisements from sustainable brands
-- Partnerships with recycling companies or local governments
-
 ## Challenges and Solutions
 - **Accurate Waste Classification**: Use advanced image recognition and allow manual input for corrections.
 - **Real-Time Collector Tracking**: Optimize GPS and map APIs for real-time updates.
