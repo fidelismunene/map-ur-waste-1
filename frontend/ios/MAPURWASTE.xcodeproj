@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xcodeproj>
+<xcodeproj>
+    <objectVersion>46</objectVersion>
+    <rootObject>PBXProject</rootObject>
+    <objects>
+        <PBXProject>
+            <isa>PBXProject</isa>
+            <attributes>
+                <LastUpgradeCheck>1300</LastUpgradeCheck>
+                <ORGANIZATIONNAME>YourOrganizationName</ORGANIZATIONNAME>
+            </attributes>
+            <targets>
+                <PBXNativeTarget>
+                    <isa>PBXNativeTarget</isa>
+                    <name>MAPURWASTE</name>
+                    <productName>MAPURWASTE</productName>
+                    <productReference>MAPURWASTE.app</productReference>
+                    <buildConfigurationList>BuildConfigurationList</buildConfigurationList>
+                    <buildPhases>
+                        <PBXFrameworksBuildPhase>
+                            <isa>PBXFrameworksBuildPhase</isa>
+                            <files>
+                            </files>
+                        </PBXFrameworksBuildPhase>
+                        <PBXSourcesBuildPhase>
+                            <isa>PBXSourcesBuildPhase</isa>
+                            <files>
+                            </files>
+                        </PBXSourcesBuildPhase>
+                    </buildPhases>
+                </PBXNativeTarget>
+            </targets>
+        </PBXProject>
+    </objects>
+</xcodeproj>

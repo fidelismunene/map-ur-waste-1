@@ -1,0 +1,26 @@
+{
+  "name": "map-ur-waste-backend",
+  "version": "1.0.0",
+  "description": "Backend for the MAP UR WASTE application, providing waste management solutions.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "body-parser": "^1.19.0",
+    "jsonwebtoken": "^8.5.1",
+    "bcrypt": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "jest": "^26.6.3"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

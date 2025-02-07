@@ -1,0 +1,32 @@
+name: map_ur_waste
+description: A seamless waste management solution connecting users with waste collectors.
+publish_to: 'none' 
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  provider: ^5.0.0
+  google_maps_flutter: ^2.0.6
+  firebase_core: ^1.10.0
+  firebase_auth: ^3.3.3
+  cloud_firestore: ^3.1.5
+  image_picker: ^0.8.4+4
+  flutter_local_notifications: ^9.1.4
+  geolocator: ^8.2.0
+  image: ^3.0.1
+  flutter_svg: ^1.0.3
+  stripe_payment: ^1.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/

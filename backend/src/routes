@@ -1,0 +1,20 @@
+const express = require('express');
+const router = express.Router();
+const wasteController = require('../controllers/wasteController');
+const collectorController = require('../controllers/collectorController');
+const adminController = require('../controllers/adminController');
+
+// User routes
+router.post('/waste/submit', wasteController.submitWaste);
+router.get('/waste/collection-points', wasteController.getCollectionPoints);
+router.post('/user/rate-collector', wasteController.rateCollector);
+
+// Collector routes
+router.get('/collector/assignments', collectorController.getAssignments);
+router.post('/collector/update-status', collectorController.updateStatus);
+
+// Admin routes
+router.get('/admin/collections', adminController.getAllCollections);
+router.post('/admin/schedule-collection', adminController.scheduleCollection);
+
+module.exports = router;
