@@ -41,4 +41,4 @@ MAP UR WASTE is a comprehensive waste management solution designed to connect us
 - **Data Security and Privacy**: Implement encryption and comply with privacy regulations.
 
 ## Conclusion
-MAP UR WASTE aims to revolutionize waste management by leveraging technology to connect users, collectors, and administrators. By following the outlined development plan, we can create a robust, user-friendly app that promotes eco-friendly practices and simplifies waste disposal.
+MAP UR WASTE aims to revolutionize waste management by leveraging technology to connect users, collectors, and administrators. 
